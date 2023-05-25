@@ -1,9 +1,15 @@
-#img-container {
-  width: 50%;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+#iframe-container {
+  width: 90%;
+}
+p {
+  font-family: "Poppins", sans-serif;
 }
 h1 {
   text-align: center;
   margin-top: 5px;
+  font-family: "Poppins", sans-serif;
+  font-style: bold;
 }
 
 ul {
@@ -23,7 +29,7 @@ th {
   border-collapse: collapse;
 }
 iframe {
-  height: 100%;
+  width: 100%;
 }
 nav {
   color: white;
