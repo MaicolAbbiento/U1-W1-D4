@@ -96,3 +96,6 @@ input {
   border: 0cm;
   border-bottom: 1px dotted black;
 }
+nav > img {
+  width: 50vw;
+}
